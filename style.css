@@ -29,9 +29,13 @@ font-size: 15px;
 .nav-links a:hover{
     color:rgb(69, 62, 62);
 }
+@media (max-width:600px)
+{
 body{
+    font-size:16px;
     background-color:#c4b3ae;
     
+  }
 }
 h1{
     display:flex;
@@ -63,6 +67,8 @@ h2{
     margin-top: 70px;;
     justify-content: center;
     align-items: center;
+    max-width=100%
+    height:auto;
 }
 .imagebox img{
    width: 280px;
@@ -84,5 +90,6 @@ h2{
     padding: 2px;
     background-color: rgb(185, 100, 114);
 size: 100px;
+
 
 }

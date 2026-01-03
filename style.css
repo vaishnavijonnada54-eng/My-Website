@@ -29,12 +29,6 @@ font-size: 15px;
 .nav-links a:hover{
     color:rgb(69, 62, 62);
 }
-@media (max-width:600px)
-{
-body{
-    font-size:16px;
-  }
-}
 body
 {
      background-color:#c4b3ae;
@@ -95,5 +89,6 @@ size: 100px;
 
 
 }
+
 
 
